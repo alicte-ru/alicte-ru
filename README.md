@@ -11,7 +11,7 @@
 
 <!-- Thanh tiến trình tình yêu bằng ký tự -->
 <p align="center">
-  <b>fall in love...</b> <br>
+  <b>...</b> <br>
   [████████████████████░░░░░] 80%
 </p>
 
